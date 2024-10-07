@@ -18,11 +18,14 @@
 1. Элемент 1
 2. Элемент 2
 3. Элемент 3
+
 ### Код
-```def hello_world():
-print("Hello, World!")```
+```
+def hello_world():
+print("Hello, World!")
+```
 
 `Код в строке`: это код в строке.
 
 ### Изображения
-![You are the best](/first_lesson/photo_2024-10-07_19-24-30.jpg)
+![You are the best](/photo_2024-10-07_19-24-30.jpg)
