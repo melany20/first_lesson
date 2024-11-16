@@ -1,6 +1,7 @@
 lsi: false
 safe: true
 source: first_lesson
+destination: ./_site
 incremental: false
 highlighter: rouge
 gist:
